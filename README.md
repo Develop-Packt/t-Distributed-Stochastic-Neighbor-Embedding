@@ -1,0 +1,2 @@
+# t-Distributed-Stochastic-Neighbor-Embedding
+ You will learn to implement t-SNE models in scikit-learn and explain the limitations of t-SNE. Being able to abstract high-dimensional information into lower dimensions will prove helpful for visualization and exploratory analysis, as well as in conjunction with the clustering algorithms. By the end of this course, you will be able to find clusters in high-dimensional data, such as user-level information or images.
